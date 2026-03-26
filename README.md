@@ -51,13 +51,13 @@ The project was created using WordPress with a pre-built theme and page builder,
 ![Header](images/screenshots/header.jpg)
 
 ### Sections Layout
-![Sections](images/screenshots/sections.png)
+![Sections](images/screenshots/Sections.png)
 
 ### Footer
 ![Footer](images/screenshots/footer.png)
 
 ### WordPress Backend
-![WordPress](images/screenshots/wordpress.png)
+![WordPress](images/screenshots/Wordpress.png)
 
 
 ## 📚 What I Learned
