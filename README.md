@@ -41,6 +41,24 @@ The project was created using WordPress with a pre-built theme and page builder,
 
 ## 📸 Screenshots
 
+### Desktop View
+![Desktop](images/screenshots/lit3projekt.png)
+
+### Mobile Version
+![Mobile](images/screenshots/mobile-version.png)
+
+### Header Design
+![Header](images/screenshots/header.jpg)
+
+### Sections Layout
+![Sections](images/screenshots/sections.png)
+
+### Footer
+![Footer](images/screenshots/footer.png)
+
+### WordPress Backend
+![WordPress](images/screenshots/wordpress.png)
+
 
 ## 📚 What I Learned
 
